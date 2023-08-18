@@ -29,6 +29,10 @@ This joke website was generated with ChatGPT and deployed to GitHub Pages. Here'
 4. Update the `package.json` file with the `"homepage"` and `"scripts"` properties.
 5. Deploy to GitHub Pages using `npm run deploy`.
 
+## Conversational Context
+
+This project was created based on a conversation with OpenAI's GPT-3.5 model. You can view the full conversation [here](https://chat.openai.com/share/a8e12139-de04-4997-aca1-dd29d6e4e351).
+
 ## Contributions
 
 This project is all about fun and amusement! If you have any funny ideas or creative suggestions to enhance the hilarity of the generated outcomes, feel free to contribute by opening a pull request. Just remember, this is all in the spirit of harmless amusement!
