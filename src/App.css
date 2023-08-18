@@ -36,3 +36,53 @@
     transform: rotate(360deg);
   }
 }
+
+/* Add any global styles here */
+
+.guid-checker {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+label {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+input {
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  padding: 8px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
+
+.result {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  color: green; /* Default color for valid result */
+}
+
+.invalid {
+  color: red; /* Red color for invalid result */
+}
+
+.check-mark {
+  font-size: 24px;
+  margin-right: 10px;
+}
