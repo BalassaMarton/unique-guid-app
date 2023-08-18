@@ -26,6 +26,12 @@ const GuidChecker = () => {
     }, 3000); // Simulate 3 seconds delay
   };
 
+  const handleKeyPress = (event) => {
+    if (event.key === 'Enter') {
+      checkGuidUniqueness();
+    }
+  };
+
   return (
     <div className="guid-checker">
       <label>Is my GUID unique?</label>
@@ -34,6 +40,7 @@ const GuidChecker = () => {
         placeholder="Enter GUID here"
         value={guidInput}
         onChange={(e) => setGuidInput(e.target.value)}
+        onKeyDown={handleKeyPress} // Listen for Enter key press
       />
       <button onClick={checkGuidUniqueness} disabled={isLoading}>
         Check
