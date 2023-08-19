@@ -2,7 +2,7 @@
   "name": "unique-guid-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://BalassaMarton.github.io/unique-guid-app",
+  "homepage": "https://guidcheck.com",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
