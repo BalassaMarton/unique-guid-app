@@ -1,0 +1,16 @@
+/* Add styles for the GitHub banner */
+.github-banner {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 10px; /* Adjust the padding as needed */
+}
+
+/* Style the GitHub logo */
+.github-banner img {
+  height: 20pt;
+  margin-left: auto; /* Adjust margin to push the logo to the right */
+  margin-right: 10px; /* Add some spacing between the logo and the rest */
+}
+
+/* Add any other existing styles for the rest of the component */
