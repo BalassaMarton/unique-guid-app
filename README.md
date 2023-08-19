@@ -31,7 +31,7 @@ This joke website was generated with ChatGPT and deployed to GitHub Pages. Here'
 
 ## Conversational Context
 
-This project was created based on a conversation with OpenAI's GPT-3.5 model. You can view the full conversation [here](https://chat.openai.com/share/a8e12139-de04-4997-aca1-dd29d6e4e351).
+This project was created based on a conversation with OpenAI's GPT-3.5 model. You can view the full conversation [here](https://chat.openai.com/share/1f17f964-885e-4911-a4fa-7f33d950fde7).
 
 ## Contributions
 
